@@ -11,8 +11,8 @@ int main()
     printf("\n%c",isupper(ch));
     printf("\n%c",islower(ch));
     char str[10] = "12345";
-    int s=0;
-    s =atoi(str);
+    int s = 0;
+    s = atoi(str);
     printf("\n%d",s);
     return 0;
 }
